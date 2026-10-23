@@ -20,7 +20,7 @@
 
 ### Who am I?
 
-Hi, I'm Franky — an IT professional working at the intersection of systems integration, network technology, and IT security.
+Hi, I'm Franky  an IT professional working at the intersection of systems integration, network technology, and IT security.
 
 IT is more than just a job to me. I'm passionate about understanding how systems work, how they fail, and how to make them more secure, resilient, and trustworthy.
 
@@ -64,7 +64,7 @@ Expect practical approaches to technology, a security-minded perspective, and an
 
 ### Wer bin ich?
 
-Moin, ich bin Franky – IT-Fachmann mit einem Schwerpunkt an der Schnittstelle von Systemintegration, Netzwerktechnik und IT-Sicherheit.
+Moin, ich bin Franky IT Typ mit einem Schwerpunkt an der Schnittstelle von Systemintegration, Netzwerktechnik und IT-Sicherheit.
 
 IT ist für mich mehr als nur ein Beruf. Ich begeistere mich dafür, zu verstehen, wie Systeme funktionieren, wo ihre Schwachstellen liegen und wie man sie sicherer, widerstandsfähiger und vertrauenswürdiger gestalten kann.
 
