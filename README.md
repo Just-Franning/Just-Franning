@@ -1,11 +1,10 @@
  
-<!-- Banner -->
 <p align="center">
-  <img src="./Banner.png" alt="Just-Franning — Cybersecurity Banner" width="100%">
+  <img src="./banner.png" alt="Just-Franning Cybersecurity Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="./Logo.svg" alt="Just-Franning Logo" width="110">
+  <img src="./logo.svg" alt="Just-Franning Logo" width="110">
 </p>
 
 <h1 align="center">Just-Franning</h1>
@@ -26,7 +25,7 @@
 
 ---
 
-<a name="english"></a>
+<a id="english"></a>
 
 ## 🇬🇧 English
 
@@ -36,45 +35,43 @@ I'm an IT security enthusiast focused on cybersecurity, privacy, secure software
 
 I enjoy exploring security challenges, building practical tools, and developing solutions that prioritize transparency, reliability, and user control.
 
-My approach is simple: **security by design, privacy by default, and transparency wherever possible.**
+**Security by design. Privacy by default. Transparency wherever possible.**
 
 ### Core principles
 
-- **Privacy first** — minimize unnecessary data collection and external dependencies.
-- **Security by design** — consider security throughout the development process.
-- **Transparency** — favor understandable implementations and clear documentation.
-- **Open source** — support collaboration, review, and reproducibility.
-- **Practical engineering** — build tools that solve real problems.
+- **Privacy first** — Minimize unnecessary data collection and external dependencies.
+- **Security by design** — Consider security throughout the development process.
+- **Transparency** — Prefer understandable implementations and clear documentation.
+- **Open source** — Encourage collaboration, review, and reproducibility.
+- **Practical engineering** — Build tools that address real-world problems.
 
 ### Featured project
 
-#### [Emberwatch](https://github.com/Just-Franning/Emberwatch)
+**[Emberwatch](https://github.com/Just-Franning/Emberwatch)**
 
-A project in my security-focused development portfolio.
-
-Explore the repository for its current features, implementation details, and documentation.
+Explore the repository for project details, current features, and documentation.
 
 ### Areas of interest
 
 - Cybersecurity and defensive security
 - Privacy engineering and data minimization
-- Secure development practices
+- Secure software development
 - Open-source security tools
 - Automation and technical experimentation
 - Documentation and reproducible workflows
 
-### Tech stack
+### Technology
 
-My tools and technologies depend on the project. I focus on choosing solutions that fit the technical requirements, security goals, and maintainability needs of each implementation.
+I choose tools and technologies based on each project's requirements, security goals, and long-term maintainability.
 
-### Connect
+### Find me online
 
-- GitHub: [@Just-Franning](https://github.com/Just-Franning)
-- Projects: [Explore my repositories](https://github.com/Just-Franning?tab=repositories)
+- [GitHub profile](https://github.com/Just-Franning)
+- [All repositories](https://github.com/Just-Franning?tab=repositories)
 
 ---
 
-<a name="deutsch"></a>
+<a id="deutsch"></a>
 
 ## 🇩🇪 Deutsch
 
@@ -84,23 +81,21 @@ Ich interessiere mich für IT-Sicherheit, Datenschutz, sichere Softwareentwicklu
 
 Ich beschäftige mich mit Sicherheitsfragen, entwickle praktische Werkzeuge und erkunde technische Lösungen, bei denen Transparenz, Zuverlässigkeit und die Kontrolle der Nutzer im Mittelpunkt stehen.
 
-Mein Ansatz: **Security by Design, Privacy by Default und möglichst viel Transparenz.**
+**Security by Design. Privacy by Default. Transparenz, wo immer möglich.**
 
 ### Meine Grundsätze
 
-- **Datenschutz zuerst** — unnötige Datenerhebung und externe Abhängigkeiten vermeiden.
+- **Datenschutz zuerst** — Unnötige Datenerhebung und externe Abhängigkeiten minimieren.
 - **Sicherheit von Anfang an** — Sicherheitsaspekte im gesamten Entwicklungsprozess berücksichtigen.
-- **Transparenz** — nachvollziehbare Implementierungen und verständliche Dokumentation bevorzugen.
+- **Transparenz** — Nachvollziehbare Implementierungen und verständliche Dokumentation bevorzugen.
 - **Open Source** — Zusammenarbeit, Überprüfbarkeit und Reproduzierbarkeit fördern.
-- **Praxisorientierte Entwicklung** — Werkzeuge entwickeln, die konkrete Probleme lösen.
+- **Praxisorientierung** — Werkzeuge entwickeln, die konkrete Probleme lösen.
 
 ### Ausgewähltes Projekt
 
-#### [Emberwatch](https://github.com/Just-Franning/Emberwatch)
+**[Emberwatch](https://github.com/Just-Franning/Emberwatch)**
 
-Ein Projekt aus meinem sicherheitsorientierten Entwicklungsportfolio.
-
-Im Repository findest du Informationen zu den aktuellen Funktionen, zur Implementierung und zur Dokumentation.
+Im Repository findest du Details zum Projekt, zu den aktuellen Funktionen und zur Dokumentation.
 
 ### Interessengebiete
 
@@ -113,15 +108,15 @@ Im Repository findest du Informationen zu den aktuellen Funktionen, zur Implemen
 
 ### Technologien
 
-Welche Werkzeuge und Technologien zum Einsatz kommen, hängt vom jeweiligen Projekt ab. Entscheidend sind die technischen Anforderungen, die Sicherheitsziele und die langfristige Wartbarkeit.
+Ich wähle Werkzeuge und Technologien passend zu den Anforderungen, Sicherheitszielen und der langfristigen Wartbarkeit des jeweiligen Projekts.
 
-### Kontakt und Projekte
+### Meine Links
 
-- GitHub: [@Just-Franning](https://github.com/Just-Franning)
-- Projekte: [Alle Repositories ansehen](https://github.com/Just-Franning?tab=repositories)
+- [GitHub-Profil](https://github.com/Just-Franning)
+- [Alle Repositories](https://github.com/Just-Franning?tab=repositories)
 
 ---
 
 <p align="center">
-  <sub>Built with a privacy-first mindset · Entwickelt mit Fokus auf Datenschutz</sub>
+  <sub>Privacy first · Security by design · Open source</sub>
 </p>
