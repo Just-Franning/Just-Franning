@@ -1,10 +1,6 @@
  
 <p align="center">
-  <img src="./banner-animation.gif" alt="Just-Franning animated cybersecurity banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="./logo.svg" alt="Just-Franning Logo" width="100">
+  <img src="./banner-animation-fixed.gif" alt="Just-Franning — Cybersecurity, Privacy and Open Source" width="100%">
 </p>
 
 <h1 align="center">Just-Franning</h1>
@@ -23,11 +19,9 @@
 
 <a id="english"></a>
 
-## 🇬🇧 English
+## English
 
 ### About me
-
-Welcome to my GitHub profile.
 
 I'm focused on IT security, privacy-conscious engineering, and open-source development. I enjoy exploring security challenges and building practical solutions with an emphasis on transparency, reliability, and user control.
 
@@ -41,11 +35,9 @@ My guiding principles:
 
 ### Featured project
 
-#### [Emberwatch](https://github.com/Just-Franning/Emberwatch)
+**[Emberwatch](https://github.com/Just-Franning/Emberwatch)**
 
-A project in my security-focused development portfolio.
-
-Visit the repository to explore its current functionality, implementation, and documentation.
+A project in my security-focused development portfolio. Visit the repository to explore its current functionality, implementation, and documentation.
 
 ### Areas of interest
 
@@ -58,7 +50,7 @@ Visit the repository to explore its current functionality, implementation, and d
 
 ### Technology
 
-I select technologies based on each project's requirements, security objectives, and maintainability. My goal is to build solutions that are practical, understandable, and mindful of privacy.
+I choose technologies based on each project's requirements, security objectives, and maintainability. My goal is to build solutions that are practical, understandable, and mindful of privacy.
 
 ### Explore
 
@@ -70,11 +62,9 @@ I select technologies based on each project's requirements, security objectives,
 
 <a id="deutsch"></a>
 
-## 🇩🇪 Deutsch
+## Deutsch
 
 ### Über mich
-
-Willkommen auf meinem GitHub-Profil.
 
 Mein Fokus liegt auf IT-Sicherheit, datenschutzorientierter Entwicklung und Open Source. Ich beschäftige mich gerne mit Sicherheitsherausforderungen und entwickle praktische Lösungen, bei denen Transparenz, Zuverlässigkeit und Nutzerkontrolle im Mittelpunkt stehen.
 
@@ -88,11 +78,9 @@ Meine Leitprinzipien:
 
 ### Ausgewähltes Projekt
 
-#### [Emberwatch](https://github.com/Just-Franning/Emberwatch)
+**[Emberwatch](https://github.com/Just-Franning/Emberwatch)**
 
-Ein Projekt aus meinem sicherheitsorientierten Entwicklungsportfolio.
-
-Im Repository findest du Informationen zu den aktuellen Funktionen, zur Implementierung und zur Dokumentation.
+Ein Projekt aus meinem sicherheitsorientierten Entwicklungsportfolio. Im Repository findest du Informationen zu den aktuellen Funktionen, zur Implementierung und zur Dokumentation.
 
 ### Interessengebiete
 
@@ -114,10 +102,6 @@ Ich wähle Technologien passend zu den Anforderungen, Sicherheitszielen und der 
 - [Emberwatch](https://github.com/Just-Franning/Emberwatch)
 
 ---
-
-<p align="center">
-  <strong>Security by Design · Privacy by Default · Open Source</strong>
-</p>
 
 <p align="center">
   <sub>Built with purpose. Designed with privacy in mind.</sub>
